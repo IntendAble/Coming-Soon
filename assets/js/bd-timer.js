@@ -1,4 +1,4 @@
-var targetDate = new Date('January 14, 2024 09:00:00').getTime();
+var targetDate = new Date('January 16, 2024 09:00:00').getTime();
 
 // Calculate the time difference in milliseconds
 var timeDifference = targetDate - new Date().getTime();
